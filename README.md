@@ -4,10 +4,13 @@
 
 ## 1. Решение задачи
 
-В файле `solution.py` реализована функция сложения двух чисел:
+В файле `solution.py` реализована функция, которая возвращает строку с числом и правильным окончанием слова "бочка":
 ```python
-from solution import add
-print(add(2, 3))  # Выведет 5
+from solution import bochka_word
+print(bochka_word(1))   # 1 бочка
+print(bochka_word(2))   # 2 бочки
+print(bochka_word(5))   # 5 бочек
+print(bochka_word(21))  # 21 бочка
 ```
 
 ## 2. Автотесты
