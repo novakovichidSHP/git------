@@ -1,3 +1,5 @@
+![CI](https://github.com/novakovichidSHP/git------/actions/workflows/python-app.yml/badge.svg)
+
 # Пример проекта на Python
 
 ## 1. Решение задачи
